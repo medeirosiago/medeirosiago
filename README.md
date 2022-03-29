@@ -22,6 +22,8 @@
 	Github
 	API consuming
 	Agile Methods
+	HTML
+	CSS
 <h5> Frontend:</h5>
 
 	React
@@ -29,6 +31,7 @@
 	React Components
 	React Hooks
 	React Redux
+	React Testing Library
 	Context API
 ##
 <div align="center">
