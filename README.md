@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/iagomedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/akaroyjoe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:iagomedeiros.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.twitter.com/codeinLuv/"><img src="https://img.shields.io/twitter/follow/codeinLuv?label=Follow%20me%20on%20Twitter&style=social" target="_blank"></a>
+<a href="https://www.twitter.com/codeinLuv/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 ##
