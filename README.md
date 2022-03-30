@@ -24,6 +24,7 @@
 	Agile Methods
 	HTML
 	CSS
+	Javascript
 <h5> Frontend:</h5>
 
 	React
