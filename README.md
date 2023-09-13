@@ -3,8 +3,8 @@
   <img align="right" alt="octagoia" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/917880761397436466/958204373526269992/octagoia.png"><br>
  
  - 🐱‍👤 Hi there! My name is **Iago Medeiros**
- - 🌱 I am a student of **Trybe**. Trained in **frontend**. 
- - 📗 Currently studying **backend**. 
+ - 🤝 I am currently a frontend software developer at [**Mercado Libre**](https://time.com/collection/time100-companies-2023/6285124/mercado-libre-leaders/)
+ - 📗 In my current job, as the only frontend developer on the team, I also have a lot of contact with Java and Kotlin
 </div>
 
 ##
